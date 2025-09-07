@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Banco.dir/ContaBancaria.c.o CMakeFiles/Banco.dir/main.c.o -o Banco 
